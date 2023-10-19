@@ -1,3 +1,1 @@
-# Semáforo
-
-### Olá, bem vindo ao meu projeto de semáforo :)
+Um simples projeto de um semáforo interativo.
